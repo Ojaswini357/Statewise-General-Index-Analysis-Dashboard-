@@ -21,7 +21,7 @@ This project uses Microsoft Excel to analyze state-wise General Index data from 
 The objective of this project is to make state-wise and sector-wise index trends easier to explore and compare through an interactive Excel dashboard.
 
 ## Project Files
-- `Project Excel.xlsx` — Excel workbook containing the dashboard and analysis.
+- Copy of Project Excel.xlsx — Excel workbook containing the dashboard and analysis.
 
 ## How to Use
 1. Download the Excel workbook.
